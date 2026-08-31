@@ -1,4 +1,4 @@
-class phone():
+class phone()
     def set_color(self,color):
         self.color=color
     def set_price(self,price):
